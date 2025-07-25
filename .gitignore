@@ -1,0 +1,10 @@
+# Ignore editor settings
+.vscode/
+.idea/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore Kubernetes config files (if any sensitive data is present)
+*.kubeconfig
