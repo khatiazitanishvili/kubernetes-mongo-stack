@@ -8,3 +8,6 @@
 
 # Ignore Kubernetes config files (if any sensitive data is present)
 *.kubeconfig
+
+# Ignore secret files
+mongo-secret.yaml
